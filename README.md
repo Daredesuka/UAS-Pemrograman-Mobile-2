@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+<h1>Tugas Ujian Akhir Semester Pemrograman Mobile 2</h1>
+
+```bash
+Nama : Ogie Kukuh Yuwono
+NIM : 312110472
+Kelas : TI.21.A3
+Matkul : Pemrograman Mobile 2
+```
+
+
