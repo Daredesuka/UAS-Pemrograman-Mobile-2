@@ -26,6 +26,6 @@ Matkul : Pemrograman Mobile 2
 ```
 
 <h3>Hasil</h3>
-![1](https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/de67733f-38af-435e-a4a1-70327e694ec8)
-![2](https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/73d8184d-d77d-49b1-9a9e-d0bfa75fac1b)
+
+<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5" alt ="Usecase1" width ="400">
 
