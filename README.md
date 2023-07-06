@@ -25,9 +25,9 @@ Kelas : TI.21.A3
 Matkul : Pemrograman Mobile 2
 ```
 
-<h3>Hasil</h3>
-<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/cce96a17-f884-4ee7-bf67-70fc6a26098e" alt ="Hasil1" width ="250">
+<h2>Hasil</h2>
+<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/cce96a17-f884-4ee7-bf67-70fc6a26098e" alt ="Hasil1" width ="275">
 
-<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/edc6ff59-260d-479f-90f1-5fadfb4acd0e" alt ="Hasil1" width ="250">
+<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/edc6ff59-260d-479f-90f1-5fadfb4acd0e" alt ="Hasil1" width ="275">
 
 
