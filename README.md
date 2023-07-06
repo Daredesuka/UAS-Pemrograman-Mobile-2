@@ -27,5 +27,5 @@ Matkul : Pemrograman Mobile 2
 
 <h3>Hasil</h3>
 
-<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5" alt ="Usecase1" width ="400">
+<img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/1.png" alt ="Gambar" width ="400">
 
