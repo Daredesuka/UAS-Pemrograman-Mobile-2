@@ -19,9 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 <h1>Tugas Ujian Akhir Semester Pemrograman Mobile 2</h1>
 
 ```bash
-Nama : Ogie Kukuh Yuwono
-NIM : 312110472
-Kelas : TI.21.A3
+Nama   : Ogie Kukuh Yuwono
+NIM    : 312110472
+Kelas  : TI.21.A3
 Matkul : Pemrograman Mobile 2
 ```
 
