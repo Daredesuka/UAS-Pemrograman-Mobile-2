@@ -24,6 +24,8 @@ NIM    : 312110472
 Kelas  : TI.21.A3
 Matkul : Pemrograman Mobile 2
 ```
+<h2>Get API :</h2>
+https://api.tvmaze.com 
 
 <h2>Hasil :</h2>
 <img src = "https://github.com/Daredesuka/UAS-Pemrograman-Mobile-2/assets/127408886/cce96a17-f884-4ee7-bf67-70fc6a26098e" alt ="Hasil1" width ="275">
